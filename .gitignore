@@ -1,0 +1,6 @@
+# GNS3 QEMU runtime state
+**/project-files/qemu/
+
+# GNS3/VPCS runtime logs
+**/project-files/vpcs/**/vpcs.log
+**/project-files/vpcs/**/ubridge.log

@@ -4,3 +4,6 @@
 # GNS3/VPCS runtime logs
 **/project-files/vpcs/**/vpcs.log
 **/project-files/vpcs/**/ubridge.log
+
+# GNS3 packet captures
+**/project-files/captures/
